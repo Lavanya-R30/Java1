@@ -1,0 +1,43 @@
+object --1.state-->static(class)
+	 2.behaviour--->non-static(instance)
+
+
+variable---info
+datatype varname=value(initilizaion)
+
+datatype have 2 types
+1.primitive(class)
+2.non primitive(infinity)
+
+
+primitive(info)-->8 types
+
+1.bye
+2.short
+3.int
+4.long
+5.float
+6.double
+7.boolean
+8.char
+
+
+
+string: Non primtive(class
+String--> store a sequwnce of  characters.
+VolumeLevel
+bassLevel
+cost
+size
+brand
+charging input
+no ofbuttons
+
+
+
+re-declaration
+
+{ 
+double time=9.40; //init
+    time=10.30; //re-init
+}
