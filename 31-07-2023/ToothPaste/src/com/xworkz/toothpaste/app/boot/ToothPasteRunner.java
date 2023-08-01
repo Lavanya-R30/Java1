@@ -10,20 +10,20 @@ public class ToothPasteRunner {
 
 		System.out.println("Running main ToothpasteRunner.....");
 
-		String pasteName = "Dabur Red";
+		String pasteName = "Dabur Amla";
 		String brand = "Dabur";
 
-		Company company = new Company("Dabur", "Mohit Malhotra", "India");
+		Company company = new Company("Dabur Amla", "Mohit Malhotra", "India");
 
-		Ingredient ingredient = new Ingredient("Lavanga", 5.8f, 10);
+		Ingredient ingredient = new Ingredient("Lavanga", 8.8f, 20);
 
-		Ingredient ingredient1 = new Ingredient("Garlic Powder", 6.90f, 28);
+		Ingredient ingredient1 = new Ingredient("Garlic Powder", 8.10f, 78);
 
-		Ingredient ingredient2 = new Ingredient("Salt", 0.56f, 8);
+		Ingredient ingredient2 = new Ingredient("Salt", 0.87f, 8);
 
 		Ingredient ingredient3 = new Ingredient("Ginger", 8.40f, 12);
 
-		Ingredient ingredient4 = new Ingredient("Maricha", 10.700f, 38);
+		Ingredient ingredient4 = new Ingredient("Maricha", 11.700f, 38);
 
 		Ingredient[] ingredients = { ingredient, ingredient1, ingredient2, ingredient3, ingredient4 };
 
