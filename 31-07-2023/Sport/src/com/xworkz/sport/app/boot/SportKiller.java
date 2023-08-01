@@ -47,8 +47,8 @@ System.out.println("Running main in SportKiller");
 		
 		HomeTown town=new HomeTown("Bangalore",678976d,areas);
 		
-		Player player=new Player("Virat",20,town,building);
-		Player player1=new Player("M S Dhoni",30,town,building1);
+		Player player=new Player("Virat Kohli",10,town,building);
+		Player player1=new Player("M S Dhoni",20,town,building1);
 		
 		Player[] players= {player,player1};
 		
