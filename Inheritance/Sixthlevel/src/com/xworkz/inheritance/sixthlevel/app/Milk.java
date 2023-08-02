@@ -1,0 +1,14 @@
+package com.xworkz.inheritance.sixthlevel.app;
+
+public class Milk extends Cow{
+public String type="Milk";
+	
+	public Milk() {
+		System.out.println("invoking no arg construvtor in Milk");
+		System.out.println("Milk type:"+type);
+	}
+	
+	public void giveProtien() {
+		System.out.println("Invoking giveProtien in Cow");
+	}
+}
