@@ -1,7 +1,11 @@
 package com.xworkz.umberalla.app;
 
 public class Umberalla {
+<<<<<<< HEAD
 	public String color;
+=======
+public String color;
+>>>>>>> 594602b0bcebd378fb69f8e274d9daf25da0635d
 	public double price;
 
 	public void rain() {
